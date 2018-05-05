@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vp.iml" filepath="$PROJECT_DIR$/vp.iml" />
+      <module fileurl="file://F:\android\viewpager\app\app.iml" filepath="F:\android\viewpager\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/viewpager.iml" filepath="$PROJECT_DIR$/.idea/viewpager.iml" />
+      <module fileurl="file://F:\android\viewpager\vp.iml" filepath="F:\android\viewpager\vp.iml" />
     </modules>
   </component>
 </project>
